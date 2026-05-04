@@ -38,8 +38,8 @@
         "status": "ACTIVE"
       },
       "Rumpelsbergtrail": {
-        "status": "WARNING",
-        "message": "Zweiter Abschnitt durch Forstarbeiten zerstört"
+        "status": "ACTIVE",
+        "message": "Wieder freigelegt. (Mai 2026)"
       },
       "Top of Rumpelsberg 2": {
         "status": "ACTIVE"
@@ -98,7 +98,7 @@
         "status": "DESTROYED"
       },
       "Pumptrail": {
-        "status": "INACTIVE"
+        "status": "ACTIVE"
       },
       "Quarry Corner": {
         "alt_name": "Kiwi",
@@ -144,8 +144,8 @@
       },
       "Top of Ilmenau 2": {
         "ref": "TOI2",
-        "status": "INACTIVE",
-        "message": "Aktuell sind mehrere Abschnitte durch Forstarbeiten nicht fahrbar."
+        "status": "WARNING",
+        "message": "Letzter Abschnitt durch Forstarbeiten nicht fahrbar."
       }
     },
     "Lindenberg": {
