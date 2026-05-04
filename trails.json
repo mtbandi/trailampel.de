@@ -102,7 +102,8 @@
       },
       "Quarry Corner": {
         "alt_name": "Kiwi",
-        "status": "ACTIVE"
+        "status": "ACTIVE",
+        "message": "Frisch gekehrt. (Mai 2026)"
       },
       "Roda DH": {
         "status": "INACTIVE"
